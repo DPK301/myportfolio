@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css';
+import './Main.css';
 import prot from '../Asset/prot.png'
 import fur from '../Asset/furniture.png'
 import travel from '../Asset/travel.png'
@@ -47,19 +47,14 @@ function Main()
 
        
       
-        {/* //home */}
+     
         <div id='Home' style={{display:'flex',zIndex:'0'}}  className='main '>
-            {/* <div style={{backgroundColor:"rgb(255, 136, 0)",width:'190px',height:'100px',position:"absolute",top:'100px'}}>
-                
-            </div>
-            <div style={{backgroundColor:"rgb(255, 136, 0)",width:'190px',height:'100px',position:"absolute",top:'350px'}}>
-                
-                </div> */}
+            
             <div className="ps-5">
                 <div style={{marginTop:'230px',marginLeft:'100px'}}>
                     <h1 style={{fontSize:'90px'}}>DEEPAK TG</h1>
                     <div className='underline'></div>
-                    {/* ............... */}
+                
                     <div>
                         <div className=" mt-3"><h3>Web developer</h3>
                         <p style={{opacity:"75%"}}> welcome to my portfolio 
@@ -75,7 +70,7 @@ function Main()
             </div>
         </div> 
 
-        {/* /................................../ */}
+   
 
         <div id='About' className=''>
 
@@ -175,36 +170,7 @@ function Main()
                     <h3>Travel.com</h3>
                 </div>
                 </div>
-                <div className='card'> <img src={luminar} alt="" />
-                <div className='info'>
-                    <h3>Luminar Clone</h3>
-                </div>
-                </div>
-                <div className='card'> <img src={health} alt="" />
-                <div className='info'>
-                    <h3>Clone</h3>
-                </div>
-                </div>
-                <div className='card'> <img src={bmi} alt="" />
-                <div className='info'>
-                    <h3>BMI Calculator</h3>
-                </div>
-                </div>
-                <div className='card'> <img src={doctor} alt="" />
-               <div className='info'>
-                   <h3>Doctor Appoiment</h3>
-               </div>
-               </div>
-               <div className='card'> <img src={weather} alt="" />
-               <div className='info'>
-                   <h3>Weather App</h3>
-               </div>
-               </div>
-               <div className='card'> <img src={contact} alt="" />
-               <div className='info'>
-                   <h3>Contact App</h3>
-               </div>
-               </div>
+               
                
                 
             </div>
@@ -263,7 +229,7 @@ function Main()
     </MDBCarousel>
             </div>
 
-               {/* .................................. */}
+               
                <div className='morepro p-5'>
                 <p><b><i style={{opacity:'75%'}}>This are some of my projects,for more :</i> <a href="/"> <i class="fa-brands fa-github"></i></a> </b></p>
                </div>
