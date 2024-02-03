@@ -24,9 +24,9 @@ function Main()
 
     
      <div>
-        <nav style={{zIndex:"1"}}>
-             <b><h5 style={{fontSize:'30px'}}>portfolio</h5></b>
-            <ul type='none'>
+        <nav >
+             <b><h5>portfolio</h5></b>
+            <ul>
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#About">About</a></li>
                 <li><a href="#projects">Projects</a></li>
