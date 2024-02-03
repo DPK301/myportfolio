@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.bd42ef6e.css",
+    "main.js": "/myportfolio/static/js/main.d659e294.js",
+    "static/media/contact.png": "/myportfolio/static/media/contact.3a232a50f017804a9218.png",
+    "static/media/travel.png": "/myportfolio/static/media/travel.3ba2f7cbb002368118aa.png",
+    "static/media/furniture.png": "/myportfolio/static/media/furniture.86ab206e50479033b63f.png",
+    "static/media/health.png": "/myportfolio/static/media/health.38f4f5b1e92fe89e0e5c.png",
+    "static/media/luminar.png": "/myportfolio/static/media/luminar.b94320755bb82331591a.png",
+    "static/media/weather.png": "/myportfolio/static/media/weather.76375a160006cdd0c16b.png",
+    "static/media/fa-solid-900.ttf": "/myportfolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/prot.png": "/myportfolio/static/media/prot.2a76540a11e20aaedcc6.png",
+    "static/media/fa-brands-400.ttf": "/myportfolio/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/doctor.png": "/myportfolio/static/media/doctor.82eb41860f01984dcc5a.png",
+    "static/media/fa-solid-900.woff2": "/myportfolio/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/myportfolio/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/myportfolio/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/bmi.png": "/myportfolio/static/media/bmi.07f638a6d44353a767cf.png",
+    "static/media/fa-regular-400.woff2": "/myportfolio/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/myportfolio/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/myportfolio/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/myportfolio/index.html",
+    "main.bd42ef6e.css.map": "/myportfolio/static/css/main.bd42ef6e.css.map",
+    "main.d659e294.js.map": "/myportfolio/static/js/main.d659e294.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd42ef6e.css",
+    "static/js/main.d659e294.js"
+  ]
+}
