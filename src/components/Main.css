@@ -28,6 +28,11 @@ nav ul li a {
     font-weight: 700;
 
 }
+nav ul li a:hover {
+    color: orange ;
+    
+
+}
  nav button{
     background-color: rgb(157, 255, 255);
     border-radius: 50px;
