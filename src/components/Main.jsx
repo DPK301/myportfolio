@@ -1,6 +1,5 @@
 import React from 'react';
 import './Header.css';
-import Button from 'react-bootstrap/Button';
 import prot from '../Asset/prot.png'
 import fur from '../Asset/furniture.png'
 import travel from '../Asset/travel.png'
@@ -11,8 +10,6 @@ import doctor from '../Asset/doctor.png'
 import weather from '../Asset/weather.png'
 import contact from '../Asset/contact.png'
 import { MDBCarousel, MDBCarouselItem, MDBCarouselCaption } from 'mdb-react-ui-kit';
-// import Paper from '@mui/material/Paper';
-// import { ThemeProvider, createTheme } from '@mui/material/styles';
 import Darkmode from './Darkmode';
 import Footer from './Footer';
 
@@ -21,16 +18,11 @@ import Footer from './Footer';
 function Main()
    
 {
-    // const darkTheme = createTheme({
-    //     palette: {
-    //       mode: 'light',
-    //     },
-    //   });
+   
       
   return (
 
-    // <ThemeProvider theme={darkTheme}>
-    //  <Paper elevation={0} sx={{height:'100%'}} square={}>
+    
      <div>
         <nav style={{zIndex:"1"}}>
              <b><h5 style={{fontSize:'30px'}}>portfolio</h5></b>
@@ -281,8 +273,7 @@ function Main()
 </div>
                
     </div>
-//      </Paper>
-//   </ThemeProvider>
+
   
     
   )

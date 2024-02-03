@@ -1,5 +1,5 @@
 import React from 'react'
-import  Dakmode from "./Dakmode.css"
+import "./Dakmode.css"
 
 function Darkmode() {
     const setDarkMode = ()=>{

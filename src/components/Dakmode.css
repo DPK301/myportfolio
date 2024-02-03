@@ -43,30 +43,5 @@ label:active:after{
     width: 25px;
 }
 
-/* label svg{
-    position: absolute;
-    width:13px ;
-    top:1px;
-    transition: 0.3s;
-}
-
-label svg.sun{
-    
-    fill:#fff;
-    transition: 0.3s;
-}
-label svg.moon{
-    
-    fill:#fff;
-    transition: 0.3s;
-}
-
-input:checked +label svg.sun{
-    fill:rgb(255, 174, 0)
-}
-
-input:checked +label svg.moon{
-  fill:white
-} */
 
 

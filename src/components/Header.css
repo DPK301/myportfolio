@@ -1,11 +1,4 @@
 
-
-/* [data-theme="light"]{
-    --body_background:#ffffff;
-    --body_color:rgb(0, 0, 0);
-    --link_color:rgb(0, 0, 0);
-} */
-
 nav{
     width: 100%;
     display: flex;
@@ -76,10 +69,6 @@ nav button:hover{
     color: var(--body_color);
     
 }
-/* .morepro .icon{
-   width: 100px;
-    
-} */
 .edu div img{
     width: 190px;
    transition: all 0.3s ease 0s;
@@ -101,7 +90,6 @@ nav button:hover{
 }
 .card{
     height: 200px;
-   
     margin-bottom: 50px;
     background: #fff;
     position: relative;
