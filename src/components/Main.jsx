@@ -183,7 +183,36 @@ function Main()
                     <h3>Travel.com</h3>
                 </div>
                 </div>
-               
+                <div className='card'> <img src={luminar} alt="" />
+                <div className='info'>
+                    <h3>Luminar Clone</h3>
+                </div>
+                </div>
+                <div className='card'> <img src={health} alt="" />
+                <div className='info'>
+                    <h3>Clone</h3>
+                </div>
+                </div>
+                <div className='card'> <img src={bmi} alt="" />
+                <div className='info'>
+                    <h3>BMI Calculator</h3>
+                </div>
+                </div>
+                <div className='card'> <img src={doctor} alt="" />
+               <div className='info'>
+                   <h3>Doctor Appoiment</h3>
+               </div>
+               </div>
+               <div className='card'> <img src={weather} alt="" />
+               <div className='info'>
+                   <h3>Weather App</h3>
+               </div>
+               </div>
+               <div className='card'> <img src={contact} alt="" />
+               <div className='info'>
+                   <h3>Contact App</h3>
+               </div>
+               </div>
                
                 
             </div>
