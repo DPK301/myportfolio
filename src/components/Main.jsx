@@ -72,10 +72,10 @@ function Main()
 
    
 
-        <div id='About' className=''>
+        <div id='About' >
 
             <div className="row mx-auto p-3">
-                <div className="col-5 "> 
+                <div className="col-5"> 
                     <div className='ms-3'>
                     <img style={{width:'590px'}} src="https://i.pinimg.com/originals/6b/61/86/6b618621463b85f33e0dba9f872ad25f.png" alt="" /></div></div>
                 <div className="col-7">
@@ -86,7 +86,7 @@ function Main()
                           <b> Hi, I’m Deepak TG, a full-stack web developer with a passion for creating beautiful and functional websites.</b>
                            I'm a beginner to web developing,working with technologies such as HTML, CSS, JavaScript, React, Node.js,Angular js and MongoDB.you can go a check out some of my projects given below <br />
                            Education : <br />
-                           <hr style={{margin:'0'}} />
+                           <hr style={{margin:'0px'}} />
                           <b>Bachelor of Technology in Computer Science and Engineering </b> <br />
                           <b>ME(A)RN</b> stack
 <hr />

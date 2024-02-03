@@ -38,12 +38,12 @@ nav ul li a {
 
 }
 nav button:hover{
-    background-color: rgb(2, 112, 112);
+    background-color:rgb(2, 112, 112);
     color: white;
 }
 .main{
-    background-color: var(--body_background);
-    color: var(--body_color);
+    background-color:var(--body_background);
+    color:var(--body_color);
     height: 600px;
 }
 .underline{
@@ -53,21 +53,21 @@ nav button:hover{
     margin: 0;
 }
 #About{
-    background-color: var(--body_background) ;
-    color: var(--body_color);
+    background-color:var(--body_background);
+    color:var(--body_color);
 }
 #skills{
-    background-color: var(--body_background) ;
-    color: var(--body_color);
+    background-color:var(--body_background);
+    color:var(--body_color);
 }
 
 #projects{
-    background-color: var(--body_background) ;
-    color: var(--body_color);
+    background-color:var(--body_background) ;
+    color:var(--body_color);
 }
 .morepro{
-    background-color: var(--body_background) ;
-    color: var(--body_color);
+    background-color:var(--body_background) ;
+    color:var(--body_color);
     
 }
 .edu div img{
@@ -106,14 +106,14 @@ nav button:hover{
 }
 
 .card:before{
-    content:" ";
+    content: "";
     position: absolute;
     top:0;
     left: 0;
     display: block;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to button,rgba(0,176,155,0.5),rgba(150,201,61,1));
+    background: linear-gradient(rgba(0,176,155,0.5),rgba(150,201,61,1));
     z-index: 2;
     transition: 0.5s all;
     opacity: 0;
@@ -126,7 +126,8 @@ nav button:hover{
 }
 
 .card .info{
-position: relative;
+padding: 10px;
+position: absolute;
 z-index: 3;
 opacity: 0;
 transform: translateY(30px);
